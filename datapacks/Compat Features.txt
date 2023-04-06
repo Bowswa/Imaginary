@@ -1,0 +1,9 @@
+Added:
+
+Suggested:
+-Add a Mine Treasure loot to The Creeper Dimension
+-Add a better way to get out of Creeper Dimension, Using Deep Dark Features
+-Add Advancements for Terralith Biomes
+-Other compats to custom biomes
+
+Rejected:
