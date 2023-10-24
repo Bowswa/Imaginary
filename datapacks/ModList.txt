@@ -1,53 +1,77 @@
 1.20.1 Packs:
-MC 1.20.1 Bundle EX Pack - Server Jar/data - DPP V0.0.1
 Ohponopono's Hopo Better Underwater Ruins 1.1.3b 1.20.1 - https://modrinth.com/datapack/better-underwater-ruins - last checked 9/11/2023 - DPP V0.0.1
-Frozytime's Mine Treasure 1.2.9 1.20.1 - https://modrinth.com/datapack/mine-treasure - last checked 9/11/2023 - DPP V0.0.1
-Cavinator1's Advancements Pack 1.16.2 1.20.1 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - last checked 9/11/2023 - DPP V0.0.1
-LimeSplatus' Vanilla Refresh 1.4.16h 1.20.1 - https://modrinth.com/datapack/vanilla-refresh/ - last checked 9/11/2023 - DPP V0.0.1
-PuckiSilver's Mob Captians 2.1.2+ 1.20.1 - https://modrinth.com/datapack/mob-captains - last checked 9/11/2023 - DPP V0.0.1
-EMD123's Deeper Dark 2.2.1 1.20.1 - https://modrinth.com/datapack/deeper_dark - last checked 9/11/2023 - DPP V0.0.1
 Appollo's Tectonic 3.0.1 1.20.1 - https://modrinth.com/datapack/terratonic/ - last checked 9/11/2023 - DPP V0.0.1 - COMPAT PACK TERRATONIC
-NovaWostra's Dungeons & Taverns 2.1.4 1.20.1 - https://modrinth.com/datapack/dungeons-and-taverns/ - last checked 9/11/2023 - DPP V0.0.1
-Apollo's Rebalanced Loot 1.1 1.20.1 - https://modrinth.com/datapack/rebalanced-loot/ - last checked 9/13/2023 - DPP V0.0.2
-Appollo's Deeper Oceans 1.0.1a 1.20.1 - https://modrinth.com/datapack/deeper-oceans/ - last checked 9/13/2023 - DPP V0.0.2
-RezMeRainzy's Mo-Variants pack 5.8 1.19.4 - https://www.planetminecraft.com/data-pack/mo-variants/ - last checked 9/11/2023 - DPP V0.0.1
-Creeper Magnet's The Creeper's Code 1.2.2 1.20.1 - https://thecreeperscode.com/changelogs/1-2-2/ - last checked 9/11/2023 - DPP V0.0.1
-Stardust's Nullscape 1.2.2 1.20.1 - https://github.com/Stardust-Labs-MC/Nullscape/releases - last checked 9/11/2023 - DPP V0.0.1
-Stardust's Structory 1.3.2 1.20.1 - https://github.com/Stardust-Labs-MC/Structory/releases - last checked 9/11/2023 - DPP V0.0.1
-Stardust's Structory Towers 1.0.3 1.20.1 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - last checked 9/11/2023 - DPP V0.0.1
-Stardust's Terralith 2.4.5 1.20.1 - https://github.com/Stardust-Labs-MC/Terralith/releases - last checked 9/11/2023 - DPP V0.0.1
-Stardust's Incendium 5.3.1 1.20.1 - https://github.com/Stardust-Labs-MC/Incendium/releases - last checked 9/11/2023 - DPP V0.0.1
-
 
 1.20.2 Packs:
 MC 1.20.2 Bundle EX Pack - Server Jar/data - Update 0.0.3
-Ohponopono's Hopo Better Underwater Ruins 1.1.3b 1.20.1 - https://modrinth.com/datapack/better-underwater-ruins - last checked 9/11/2023 -
-Frozytime's Mine Treasure 1.2.9 1.20.1 - https://modrinth.com/datapack/mine-treasure - last checked 9/11/2023 -
-Cavinator1's Advancements Pack 1.16.2 1.20.1 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - last checked 9/11/2023 -
-LimeSplatus' Vanilla Refresh 1.4.16h 1.20.1 - https://modrinth.com/datapack/vanilla-refresh/ - last checked 9/11/2023 -
-PuckiSilver's Mob Captians 2.1.2+ 1.20.1 - https://modrinth.com/datapack/mob-captains - last checked 9/11/2023 -
-EMD123's Deeper Dark 2.2.1 1.20.1 - https://modrinth.com/datapack/deeper_dark - last checked 9/11/2023 -
-Appollo's Tectonic 3.0.1 1.20.1 - https://modrinth.com/datapack/terratonic/ - last checked 9/11/2023 - COMPAT PACK TERRATONIC -
-NovaWostra's Dungeons & Taverns 2.1.4 1.20.1 - https://modrinth.com/datapack/dungeons-and-taverns/ - last checked 9/11/2023 -
-Apollo's Rebalanced Loot 1.1 1.20.1 - https://modrinth.com/datapack/rebalanced-loot/ - last checked 9/13/2023 -
-Appollo's Deeper Oceans 1.0.1a 1.20.1 - https://modrinth.com/datapack/deeper-oceans/ - last checked 9/13/2023 -
-RezMeRainzy's Mo-Variants pack 5.8 1.19.4 - https://www.planetminecraft.com/data-pack/mo-variants/ - last checked 9/11/2023 -
-Creeper Magnet's The Creeper's Code 1.2.2 1.20.1 - https://thecreeperscode.com/changelogs/1-2-2/ - last checked 9/27/2023 - NOT YET READY CHECK BACK!!!
-Stardust's Nullscape 1.2.2 1.20.1 - https://github.com/Stardust-Labs-MC/Nullscape/releases - last checked 9/25/2023 - Update 0.0.3
-Stardust's Structory 1.3.2 1.20.1 - https://github.com/Stardust-Labs-MC/Structory/releases - last checked 9/25/2023 - Update 0.0.3
-Stardust's Structory Towers 1.0.3 1.20.1 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - last checked 9/25/2023 - Update 0.0.3
-Stardust's Terralith 2.4.5 1.20.1 - https://github.com/Stardust-Labs-MC/Terralith/releases - last checked 9/25/2023 - Update 0.0.3
-Stardust's Incendium 5.3.1 1.20.1 - https://github.com/Stardust-Labs-MC/Incendium/releases - last checked 9/25/2023 - Update 0.0.3
+MC 1.20.2 Villager Trade EX Pack - Server Jar/data - Update 0.0.3
+Ohponopono's Hopo Better Underwater Ruins 1.1.3b 1.20.1 - https://modrinth.com/datapack/better-underwater-ruins - last checked 10/23/2023 -
+Frozytime's Mine Treasure 1.3.0 1.20.2 - https://modrinth.com/datapack/mine-treasure - last checked 10/23/2023 - Update 0.0.3
+Cavinator1's Advancements Pack 1.16.3 1.20.2 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - last checked 10/23/2023 - Update 0.0.3
+Cavinator1's Advancements COMPAT 1.20.2 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - last checked 10/23/2023 - Update 0.0.3
+LimeSplatus' Vanilla Refresh 1.4.17c 1.20.2 - https://modrinth.com/datapack/vanilla-refresh/ - last checked 10/23/2023 - Update 0.0.3
+PuckiSilver's Mob Captians 2.1.2+ 1.20.1 - https://modrinth.com/datapack/mob-captains - last checked 10/23/2023 - Update 0.0.3
+EMD123's Deeper Dark 2.2.1 1.20.2 - https://modrinth.com/datapack/deeper_dark - last checked 10/23/2023 - Update 0.0.3
+Apollo's Tectonic 3.0.1 1.20.1 - https://modrinth.com/datapack/terratonic/ - last checked 10/23/2023 - COMPAT PACK TERRATONIC -
+NovaWostra's Dungeons & Taverns 3.0.3 1.20.2 - https://modrinth.com/datapack/dungeons-and-taverns/ - last checked 10/23/2023 - Update 0.0.3
+Apollo's Rebalanced Loot 1.1.1 1.20.2 - https://modrinth.com/datapack/rebalanced-loot/ - last checked 10/23/2023 - Update 0.0.3
+Apollo's Deeper Oceans 1.0.2 1.20.2 - https://modrinth.com/datapack/deeper-oceans/ - archived 10/23/2023 - Update 0.0.3
+Apollo's Trimmable Tools 1.0.5 1.20.2 - https://modrinth.com/datapack/trimmable-tools/ - last checked 10/23/2023 - Update 0.0.3
+RezMeRainzy's Mo-Variants 6.2.1 1.20.2 - https://modrinth.com/datapack/mo-variants/ - last checked 10/23/2023 - Update 0.0.3
+CommandCraft53030's Crab 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-crab-to-minecraft/ - last checked 10/23/2023 - Update 0.0.3
+CommandCraft53030's Armadillo 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-armadillo-to-minecraft/ - last checked 10/23/2023 - Update 0.0.3
+CommandCraft53030's Penquin 1.0 1.20.2 - https://modrinth.com/datapack/the-penguin-to-minecraft - last checked 10/23/2023 - Update 0.0.3
+Stardust's Nullscape 1.2.3 1.20.2 - https://github.com/Stardust-Labs-MC/Nullscape/releases - last checked 10/23/2023 - Update 0.0.3
+Stardust's Structory 1.3.3 1.20.2 - https://github.com/Stardust-Labs-MC/Structory/releases - last checked 10/23/2023 - Update 0.0.3
+Stardust's Structory Towers 1.0.5 1.20.2 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - last checked 10/23/2023 - Update 0.0.3
+Stardust's Terralith 2.4.7 1.20.2 - https://github.com/Stardust-Labs-MC/Terralith/releases - last checked 10/23/2023 - Update 0.0.3
+Stardust's Incendium 5.3.2 1.20.2 - https://github.com/Stardust-Labs-MC/Incendium/releases - last checked 10/23/2023 - Update 0.0.3
 
-
+1.20.2 Mods:
+Openloader
+Sodium
+Lithium
+Versioned Options File
 
 
 POTENTIAL UPDATES:
-LimeSpatus' Ultris: Boss Expansion 5.6.8d 1.19.4 - https://modrinth.com/datapack/ultris - Check back for 1.20.2
-Frektip's Technical Enchant+ Renewed 7.3.2 1.19.4 - https://modrinth.com/datapack/technical-enchant+-renewed - Check back for 1.20.2
-Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - Check back for 1.20.2
-Zoey2936's Ribstnib V1.2.3 1.19.4 - https://modrinth.com/datapack/ribstnib - Check back for 1.20.2
+https://thecreeperscode.com/changelogs/1-2-2/ - add to 1.20.2(waiting for update & permission)
 
+LimeSpatus' Ultris: Boss Expansion 5.6.8d 1.19.4 - https://modrinth.com/datapack/ultris - 1.20.2 NOT READY!!!
+Frektip's Technical Enchant+ Renewed 7.3.2 1.19.4 - https://modrinth.com/datapack/technical-enchant+-renewed - 1.20.2 NOT READY
+Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.20.2 NOT READY
+Zoey2936's Ribstnib V1.2.3 1.19.4 - https://modrinth.com/datapack/ribstnib - Add myself.
+https://modrinth.com/datapack/combat-expanded - add to 1.20.2
+https://modrinth.com/datapack/gm4-apple-trees - add to 1.20.2
+https://modrinth.com/datapack/gm4-double-doors - add to 1.20.2
+https://modrinth.com/resourcepack/gm4-resources - add to 1.20.2 RESOURCE PACK
+https://modrinth.com/datapack/gm4-chairs - add to 1.20.2
+https://gm4.co/modules/xp-storage - add to 1.20.2
+https://gm4.co/modules/washing-tanks - add to 1.20.2
+https://gm4.co/modules/liquid-tanks - add to 1.20.2
+https://gm4.co/modules/tunnel-bores - add to 1.20.2
+https://gm4.co/modules/trapped-signs - add to 1.20.2
+https://gm4.co/modules/tower-structures - add to 1.20.2
+https://gm4.co/modules/sunken-treasure - add to 1.20.2
+https://gm4.co/modules/speed-paths - add to 1.20.2
+https://gm4.co/modules/shapeless-portals - add to 1.20.2
+https://gm4.co/modules/scuba-gear - add to 1.20.2
+https://gm4.co/modules/potion-swords - add to 1.20.2
+https://gm4.co/modules/podzol-rooting-soil - add to 1.20.2
+https://gm4.co/modules/mysterious-midnights - add to 1.20.2
+https://gm4.co/modules/midnight-menaces - add to 1.20.2
+https://gm4.co/modules/metallurgy - add to 1.20.2
+https://gm4.co/modules/mending-tanks - add to 1.20.2
+https://gm4.co/modules/lightning-in-a-bottle - add to 1.20.2
+https://gm4.co/modules/ink-spitting-squid - add to 1.20.2
+https://gm4.co/modules/holographic-tags - add to 1.20.2
+https://gm4.co/modules/heart-canisters - add to 1.20.2
+https://gm4.co/modules/everstone - add to 1.20.2
+https://gm4.co/modules/end-fishing - add to 1.20.2
+https://gm4.co/modules/disassemblers - add to 1.20.2
+https://gm4.co/modules/dangerous-dungeons - add to 1.20.2
+https://gm4.co/modules/cooler-caves - add to 1.20.2
+https://gm4.co/modules/block-compressors - add to 1.20.2
 
 
 
@@ -61,5 +85,35 @@ Zoey2936's Ribstnib V1.2.3 1.19.4 - https://modrinth.com/datapack/ribstnib - Che
 -Stardust pack Updates:<br>
 1. New colorful pack descrtiptions.<br>
 2. Better support for new seed viewing standard.<br>
-3. Structory:Towers now has better support for Waystones Mod.<br>
--Fixed requiring duplicate packs by properly configuring OpenLoader.
+3. Structory:Towers now has better support for Waystones Mod.<br><br>
+
+-Dungeons & Taverns Updates:<br>
+1. Added Snowy Taverns, Piglin Camps, Skeleton Camps(nether biomes), Piglin Outstation, Skeleton Towers(nether biomes), Donjon, Nether Ports, Witch Villa, Creeping Crypts, & Desert Ruins.<br>
+2. Separated the Nether Keep & Hamlets into their own structure set.<br>
+3. Wild Ruins are more variated<br>
+4. Overhauled the conduit ruin, stronghold layoyt & library loot, Swamp Villages, Ancient cities loot, trim loot, illager manors, undead crypts, bunkers, badlans miner outpost, taverns, & nether keeps.<br>
+5. Fixed underground houses floating<br>
+6. Updated stronghold librarians<br>
+7. Removed tavern's villager unique trades(aside from nitwit)<br>
+8. Fixed a bunch of bugs, including with weird tree leaves & the stronghold rework.<br>
+9. Compat with Terralith now(should fix a lot of this content being missing).<br>
+10. Removed Vanilla overhauls from this pack.<br><br>
+
+-Mo-Variants Updates:<br>
+1. Reduced Lost Soul Spawn Rate<br>
+2. Added Half-Zombie<br>
+3. Added Giant Boss<br>
+4. Giant boss drops Charm of Empowerment<br>
+5. Bug fixes<br><br>
+
+<h3>Additions</h3>
+-Added Caffine Performance Booster Mods(Sodium & Lithium)<br>
+-Added Crab, Armadillo, & Penguin from the mob vote(thanks CommandCraft53030)<br>
+-Added "Dynamic FPS" mod to increase performance when the game is in the background.<br>
+-Added Appolo's Trimmable Tools<br>
+-Added the Experimental Villager Trade Modifiers<br>
+-Added Cavinator1's Advancements Compatability Packs for Terralith & Nullscape<br><br>
+
+<h3>Temporary Removals</h3>
+-Ohponopono's Hopo Better Underwater Ruins - Waiting for 1.20.2<br>
+-Appollo's Tectonic - Waiting for 1.20.2 COMPAT PACK<br>

@@ -1,9 +1,7 @@
 Added:
 
 Suggested:
--Add a Mine Treasure loot to The Creeper Dimension
--Add Advancements for Terralith Biomes
--Other compats to custom biomes
--Preset config with Vanilla Refresh
+-Pre-Configure Mob Captians Properly(ps, use config function)
+-Configure DP order on first start
 
 Rejected:
