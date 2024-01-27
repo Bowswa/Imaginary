@@ -1,56 +1,76 @@
-1.20.1 Packs:
-Appollo's Tectonic 3.0.1 1.20.1 - https://modrinth.com/datapack/terratonic/ - last checked 11/19/2023 - DPP V0.0.1 - COMPAT PACK TERRATONIC
+1.20.4 Data Packs:
+MC 1.20.4 Bundle EX Pack - Server Jar/data - Update 0.0.6
+MC 1.20.4 Villager Trade EX Pack - Server Jar/data - Update 0.0.6
 
-1.20.2 Packs:
-MC 1.20.2 Bundle EX Pack - Server Jar/data - Update 0.0.3
-MC 1.20.2 Villager Trade EX Pack - Server Jar/data - Update 0.0.3
-Ohponopono's Hopo Better Underwater Ruins 1.1.4 1.20.2 - https://modrinth.com/datapack/better-underwater-ruins - Followed - Update 0.0.3
-Frozytime's Mine Treasure 1.3.2 1.20.2 - https://modrinth.com/datapack/mine-treasure - Followed - Update 0.0.4
-Cavinator1's Advancements Pack 1.16.3 1.20.2 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - Update 0.0.3
-Cavinator1's Advancements COMPAT 1.20.2 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - last checked 11/19/2023 - Update 0.0.3
-LimeSplatus' Vanilla Refresh 1.4.19d 1.20.2 - https://modrinth.com/datapack/vanilla-refresh/ - Followed - Update 0.0.4
-PuckiSilver's Mob Captians 2.1.2 1.20.2 - https://modrinth.com/datapack/mob-captains - Followed - Update 0.0.3
-EMD123's Deeper Dark 2.2.1 1.20.2 - https://modrinth.com/datapack/deeper_dark - Followed - Update 0.0.3
-NovaWostra's Dungeons & Taverns 3.1.0 1.20.2 - https://modrinth.com/datapack/dungeons-and-taverns/ - Followed - Update 0.0.3
-Apollo's Rebalanced Loot 1.1.1 1.20.2 - https://modrinth.com/datapack/rebalanced-loot/ - Followed - Update 0.0.3
-Apollo's Deeper Oceans 1.0.2 1.20.2 - https://modrinth.com/datapack/deeper-oceans/ - Followed - Update 0.0.3
-Apollo's Trimmable Tools 1.0.5 1.20.2 - https://modrinth.com/datapack/trimmable-tools/ - Followed - Update 0.0.3
-RezMeRainzy's Mo-Variants 6.5.1 1.20.2 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.4
-CommandCraft53030's Crab 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-crab-to-minecraft/ - last checked 11/19/2023 - Update 0.0.3
-CommandCraft53030's Armadillo 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-armadillo-to-minecraft/ - last checked 11/19/2023 - Update 0.0.3
-CommandCraft53030's Penquin 1.0 1.20.2 - https://modrinth.com/datapack/the-penguin-to-minecraft - last checked 11/19/2023 - Update 0.0.3
-Frektip's Technical Enchant+ Renewed 7.4.0 1.20.2 - https://modrinth.com/datapack/technical-enchant+-renewed - Followed - Update 0.0.4
-Stardust's Terralith 2.4.11 1.20.2 - https://github.com/Stardust-Labs-MC/Terralith/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Incendium 5.3.4 1.20.2 - https://github.com/Stardust-Labs-MC/Incendium/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Nullscape 1.2.4 1.20.2 - https://github.com/Stardust-Labs-MC/Nullscape/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Structory 1.3.4 1.20.2 - https://github.com/Stardust-Labs-MC/Structory/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Structory-T 1.0.6 1.20.2 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - last checked 12/7/2023 - Update 0.0.4
+Apollo's Rebalanced Loot 1.1.1 1.20.2 - https://modrinth.com/datapack/rebalanced-loot/ - Followed - Update 0.0.3 - Update 0.0.6
+Apollo's Terratonic 3.1 1.19-1.20.4 - https://modrinth.com/datapack/terratonic/ - Followed - Update 0.0.5
+Apollo's Trimmable Tools 1.0.5 1.20.2 - https://modrinth.com/datapack/trimmable-tools/ - Followed - Update 0.0.3 - NOT READY
 
+Cavinator1's BACAP Pack 1.16.6 1.20.4 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - Update 0.0.6
+Cavinator1's BACAP Stardust Compat 1.20.2 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 1/27/2024 - Update 0.0.6
 
-1.20.2 Mods:
-Openloader
-Sodium
-Lithium
-Versioned Options File
+CommandCraft53030's Crab 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-crab-to-minecraft/ - LCed 1/18/2024 - Update 0.0.3
+CommandCraft53030's Armadillo 1.0 1.20.2 - https://modrinth.com/datapack/i-add-the-armadillo-to-minecraft/ - LCed 1/18/2024 - Update 0.0.3
+CommandCraft53030's Penquin 1.0 1.20.2 - https://modrinth.com/datapack/the-penguin-to-minecraft - LCed 11/19/2023 - Update 0.0.3
 
-1.20.4 Packs:
-Cavinator1's Advancements Pack 1.16.3 1.20.4 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - 
-LimeSplatus' Vanilla Refresh 1.4.19d 1.20.4 - https://modrinth.com/datapack/vanilla-refresh/ - Followed - Update 0.0.4
-NovaWostra's Dungeons & Taverns 3.1.0 1.20.4 - https://modrinth.com/datapack/dungeons-and-taverns/ - Followed - 
-Stardust's Terralith 2.4.11 1.20.4 - https://github.com/Stardust-Labs-MC/Terralith/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Incendium 5.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Incendium/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Nullscape 1.2.4 1.20.4 - https://github.com/Stardust-Labs-MC/Nullscape/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Structory 1.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Structory/releases - last checked 12/7/2023 - Update 0.0.4
-Stardust's Structory-T 1.0.6 1.20.4 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - last checked 12/7/2023 - Update 0.0.4
+CreeperMagnet_'s TCC 1.3.3 for 1.20.4 - https://modrinth.com/datapack/the-creepers-code/ - Followed - Update 0.0.6
+
+EMD123's Deeper Dark 2.2.1 1.20.2 - https://modrinth.com/datapack/deeper_dark - Followed - NOT READY
+
+Frektip's Technical Enchant+ Renewed 7.4.2 1.20.4 - https://modrinth.com/datapack/technical-enchant+-renewed - Followed - Update 0.0.6
+
+Frozytime's Mine Treasure 1.3.3 1.20.4 - https://modrinth.com/datapack/mine-treasure - Followed - Update 0.0.6
+
+Gamemode 4's Apple Trees 2.2.4 1.20.4 - https://modrinth.com/datapack/gm4-apple-trees - Followed - Update 0.0.5
+Gamemode 4's Double Doors 1.0.4 1.20.4 - https://modrinth.com/datapack/gm4-double-doors - Followed - Update 0.0.5
+Gamemode 4's Bookshelf Inspector 1.0.2 1.20.4 - https://modrinth.com/datapack/gm4-bookshelf-inspector - Followed - Update 0.0.5
+Gamemode 4's Chairs 1.3.1 1.20.4 - https://modrinth.com/datapack/gm4-chairs/ - Followed - Update 0.0.6
+
+LimeSplatus' Vanilla Refresh 1.4.19g 1.20.4 - https://modrinth.com/datapack/vanilla-refresh/ - Followed - Update 0.0.5
+
+MacchuPicchu's Nutrition 1.2.2 1.20.4 - https://modrinth.com/datapack/nutrition - Followed - Update 0.0.6
+
+NovaWostra's Dungeons & Taverns 3.1.1 1.20.4 - https://modrinth.com/datapack/dungeons-and-taverns/ - Followed - Update 0.0.6
+
+Ohponopono's Better Underwater Ruins 1.1.4 1.20.2 - https://modrinth.com/datapack/better-underwater-ruins - Followed - NOT READY
+
+PuckiSilver's Mob Captians 3.2.1 1.20.2 - https://modrinth.com/datapack/mob-captains - Followed - Update 0.0.5
+PuckiSilver's Concoction 1.0.0 1.20.4 - https://modrinth.com/datapack/concoction/ - Followed - Update 0.0.6
+
+RainRealmCreate's Mo-Variants 7.2.1 1.20.4 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.6
+RainRealmCreate's Horde Nights 0.3.1 1.20.4 - https://modrinth.com/datapack/horde-nights/ - Followed - Update 0.0.5
+RainRealmCreate's Injured Effects 1.2.2 1.20.4 - https://modrinth.com/datapack/injured-effects/ - Followed - Update 0.0.5
+
+Stardust's Terralith 2.4.11 1.20.4 - https://github.com/Stardust-Labs-MC/Terralith/releases - LCed 1/18/2024 - Update 0.0.4
+Stardust's Incendium 5.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Incendium/releases - LCed 1/18/2024 - Update 0.0.4
+Stardust's Nullscape 1.2.4 1.20.4 - https://github.com/Stardust-Labs-MC/Nullscape/releases - LCed 1/18/2024 - Update 0.0.4
+Stardust's Structory 1.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Structory/releases - LCed 1/18/2024 - Update 0.0.4
+Stardust's Structory-T 1.0.6 1.20.4 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - LCed 1/18/2024 - Update 0.0.4
+
+Tschipcraft's Spawn Animations 1.9.4 1.20.4 - https://modrinth.com/datapack/spawn-animations/ - Followed - Update 0.0.6
+
+1.20.4 Resource Packs:
+CreeperMagnet_'s TCC-RP for 1.20.4 - RESOURCE PACK - Followed - Update 0.0.6
+Frektip's Technical Enchant+ Renewed for 1.20.4 - RESOURCE PACK - Followed - Update 0.0.6
+StardustLab's Sparkles for 1.0.5 1.20.4 - https://modrinth.com/resourcepack/sparkles - Update 0.0.6
+CommandCraft53030's Crab for 1.20.2 - RESOURCE PACK - Update 0.0.6
+CommandCraft53030's Armadillo for 1.20.2 - RESOURCE PACK - Update 0.0.6
+CommandCraft53030's Penquin for 1.20.2 - RESOURCE PACK - Update 0.0.6
+Cavinator1's BACAP Translations for 1.20.2 - https://modrinth.com/resourcepack/bacap-language-pack - Update 0.0.6
+
+1.20.4 Mods:
+Sunekaer's Yeetus Experimentus 84.0.0 1.20.4 - Performance
+Darkhax's Openloader 22.0.1 1.20.4 - Core
+Juliand665's Dynamic FPS 3.3.3 1.20.4 - Performance
+Fabric's Fabric API 0.94.1 1.20.4 - Core
+Jellysquid3's Lithium 0.12.1 1.20.4 - Performance
+Jellysquid3's Sodium 0.5.5 1.20.4 - Performance
+Malte0811's FerriteCore 6.0.3 1.20.4 - Performance
 
 
 POTENTIAL UPDATES:
-https://thecreeperscode.com/changelogs/1-2-2/ - add to 1.20.2(waiting for update & permission)
-
 Zoey2936's Ribstnib V1.2.3 1.19.4 - https://modrinth.com/datapack/ribstnib - Add myself.
 https://modrinth.com/datapack/combat-expanded - add to 1.20.2
-https://modrinth.com/datapack/gm4-apple-trees - add to 1.20.2
-https://modrinth.com/datapack/gm4-double-doors - add to 1.20.2
 https://modrinth.com/resourcepack/gm4-resources - add to 1.20.2 RESOURCE PACK
 https://modrinth.com/datapack/gm4-chairs - add to 1.20.2
 https://gm4.co/modules/xp-storage - add to 1.20.2
@@ -79,31 +99,74 @@ https://gm4.co/modules/disassemblers - add to 1.20.2
 https://gm4.co/modules/dangerous-dungeons - add to 1.20.2
 https://gm4.co/modules/cooler-caves - add to 1.20.2
 https://gm4.co/modules/block-compressors - add to 1.20.2
-https://modrinth.com/datapack/rituals/versions - add to 1.20.2
-https://modrinth.com/datapack/nutrition/versions - add to 1.20.2
-
-LimeSpatus' Ultris: Boss Expansion 5.6.9b 1.20.1 - https://modrinth.com/datapack/ultris - 1.20.2 NOT READY!!!
-Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.20.2 NOT READY
 
 
+https://modrinth.com/datapack/rituals/versions - 1.20.4 NOT READY
+https://modrinth.com/datapack/attrition/ - 1.20.4 NOT READY
+LimeSpatus' Ultris: Boss Expansion 5.6.9b 1.20.1 - https://modrinth.com/datapack/ultris - 1.20.4 NOT READY
+Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.20.4 NOT READY
 
-<h1>Version 0.0.4: Alpha</h1>
+
+
+<h1>Alpha v0.0.6: Many Resources</h1>
 <h3>Fixes:</h3>
--Fixes with DP updates<br><br>
+
+- Fix Mob vote mobs missing required resource packs.
+- Fixes with pack updates!
 
 <h3>Updates:</h3>
--Updated all Datapacks to latest versions.<br>
-1. Mine Treasure to 1.3.2<br>
-2. Vanilla Refresh to 1.4.19d<br>
-3. Mo-Variants to 6.5.1<br>
-4. Terralith to 2.4.11<br>
-5. Incendium to 5.3.4<br>
-6. Nullscape to 1.2.4<br>
-7. Structory to 1.3.4<br>
-8. Structory-T to 1.0.6<br><br>
+
+- Updated to 1.20.4
+- Datapack Updates:
+  - Updated NovaWostra's Dungeons & Taverns to 3.1.1 from 3.1.0
+  - Updated Cavinator1's BACAP to 1.16.6 from 1.16.3
+  - Updated Cavinator1's BACAP Stardust COMPAT to 1.16.6 from 1.16.3
+  - Updated CreeperMagnet_'s TCC to 1.3.2 from 1.3.0
+  - Updated Frektip's Technical Enchant+ Renewed to 7.4.2 from 7.4.0
+  - Updated Frozytime's Mine Treasure to 1.3.3 from 1.3.2
+  - Updated Experiments packs to 1.20.4 versions
+  - Updated RainRealmCreate's Mo-Variants to 7.2.1 from 7.0.2
+  - Updated MacchuPicchu's Nutrition to 1.2.2 from 1.2.0
+  - Updated Apollo's Rebalanced Loot: Coded update myself, PRed for apollo to use. Likely to be V1.2 or 1.1.2
+- Mod Updates:
+  - Darkhax's Openloader to MC1.20.4 from MC1.20.2
+  - Juliand665's Dynamic FPS to MC1.20.4 from MC1.20.2
+  - Fabric's Fabric API to MC1.20.4 from MC1.20.2
+  - Jellysquid3's Lithium to MC1.20.4 from MC1.20.2
+  - Jellysquid3's Sodium to MC1.20.4 from MC1.20.2
+- Resource Pack Updates:
+  - CreeperMagnet_'s The Creeper's Code Resource Pack to 1.3.3 from 1.3.0
 
 <h3>Additions:</h3>
--Added Frektip's Technical Enchant+ Renewed 7.4.0<br>
--Imaginary Core pack V0.0.4<br>
-1. Made with Modrinth Standard v0.1.<br>
-2. More will come in the next update, I've not had much time, motivation, or health last couple weeks.<br><br>
+
+- Datapack Additions:
+  - Added Tschopcraft's Spawn Animations
+    - Adds slightly more in depth spawning animations to the game.
+  - Added Gamemode4's Chairs
+    - Use a saddle on a stair and sit down, chill, relax! That saddle took effort to get :)
+  - Added PuckiSilver's Concoction
+    - Combine potions using a phantom membrane.
+- Mod Additions:
+  - Added Sunekaer's Yeetus Experimentus
+    - Disables the experimental features warning to speed up world creation.
+  - Added Malte0811's FerriteCore
+    - Manages Minecraft's Memory Usage infinitely better
+- Resource Pack Additions:
+  - Added Frektip's Technical Enchant+ Renewed Attached Resource Pack
+  - Added StardustLab's Sparkles Resource Pack
+  - Added CommandCraft53030's Crab Resource Pack(Fixes bug)
+  - Added CommandCraft53030's Armadillo Resource Pack(Fixes bug)
+  - Added CommandCraft53030's Penquin Resource Pack(Fixes bug)
+  - Added Cavinator1's BACAP Translations
+
+<h3>Temporary Removals</h3>
+
+- Apollo's Trimmable Tools: Out of date
+- EMD123's Deeper Dark: Out of date
+- Ohponopono's Better Underwater Ruins: Out of date
+
+<h3>Removals</h3>
+
+- Removed Apollo's Versioned Options File due to redundency in this modpack.
+- Removed Apollo's Deeper Oceans due to pack being out of date and archived.
+- Removed Null's Mod Menu due to reduncency in this modpack.
