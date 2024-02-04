@@ -37,7 +37,7 @@ Ohponopono's Better Underwater Ruins 1.1.4 1.20.2 - https://modrinth.com/datapac
 PuckiSilver's Mob Captians 3.2.1 1.20.2 - https://modrinth.com/datapack/mob-captains - Followed - Update 0.0.5
 PuckiSilver's Concoction 1.0.0 1.20.4 - https://modrinth.com/datapack/concoction/ - Followed - Update 0.0.6
 
-RainRealmCreate's Mo-Variants 7.2.1 1.20.4 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.6
+RainRealmCreate's Mo-Variants 7.2.2 1.20.4 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.6a
 RainRealmCreate's Horde Nights 0.3.1 1.20.4 - https://modrinth.com/datapack/horde-nights/ - Followed - Update 0.0.5
 RainRealmCreate's Injured Effects 1.2.2 1.20.4 - https://modrinth.com/datapack/injured-effects/ - Followed - Update 0.0.5
 
@@ -106,6 +106,14 @@ https://modrinth.com/datapack/attrition/ - 1.20.4 NOT READY
 LimeSpatus' Ultris: Boss Expansion 5.6.9b 1.20.1 - https://modrinth.com/datapack/ultris - 1.20.4 NOT READY
 Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.20.4 NOT READY
 
+
+<h1>Alpha v0.0.6c</h1>
+
+<h3>Changes/Fixes:</h3>
+
+- Rebuilt the entire pack, something just felt weird so I re-added every single thing manually.
+- Updated to fabric loader 0.15.6
+- Updated RainRealmCreate's Mo-Variants to 7.3.0, which is now stable no thanks to the bug I made in developing for that team...
 
 
 <h1>Alpha v0.0.6: Many Resources</h1>
