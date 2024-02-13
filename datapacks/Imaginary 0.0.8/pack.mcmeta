@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": {
+      "translate": "",
+      "fallback": "The Base datapack for Imaginary.",
+      "color": "blue"
+    }
+  }
+}

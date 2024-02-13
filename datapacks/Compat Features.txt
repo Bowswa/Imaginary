@@ -11,8 +11,16 @@ Suggested:
 7. /scoreboard players set .weight_rare ps-mob.config 750
 8. /scoreboard players set .weight_legendary ps-mob.config 250
 -Configure DP order on first start
+  1. Trade Rebalance 1.20.4
+  2. TimeLib
+  3. BACAP Normal
+  4. BACAP Terralith
+  5. BACAP Nullscape
 -Configure Advancement Pack
 1. /function blazeandcave:config/scoreboard_bac_advancements (find out how to set to sidebar)
--Remove Terralith & BACAP messages on startup
+-BACAP messages on startup
+- Vanilla Refresh Settings
+  1. /function vanilla_refresh:other/actions/player/sitting_disable
+- Fix "Shriek Forever After" triggering when Injured Effects gives darkness
 
 Rejected:
