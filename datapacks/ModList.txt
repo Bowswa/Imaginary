@@ -27,7 +27,8 @@ Miraculixx's Animated Doors 1.1.0 1.20.4 - https://modrinth.com/datapack/animate
 
 NovaWostra's Dungeons & Taverns 3.1.1 1.20.4 - https://modrinth.com/datapack/dungeons-and-taverns/ - Followed - Update 0.0.7
 
-Ohponopono's Better Underwater Ruins 1.1.4 1.20.2 - https://modrinth.com/datapack/better-underwater-ruins - Followed - NOT READY
+Ohponopono's Better Underwater Ruins 1.1.5 1.20.4 - https://modrinth.com/datapack/better-underwater-ruins - Followed - Update 0.0.8
+Ohponopono's Better Mineshafts 1.2.1 1.20.4 - https://modrinth.com/datapack/better-mineshaft - Followed - Update 0.0.8
 
 PuckiSilver's Mob Captians 3.2.1 1.20.2 - https://modrinth.com/datapack/mob-captains - Followed - Update 0.0.7
 PuckiSilver's Concoction 1.0.0 1.20.4 - https://modrinth.com/datapack/concoction/ - Followed - Update 0.0.7
@@ -122,6 +123,10 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 
 - Datapack Updates:
   - Update RainRealmCreate's Mo-Variants to 7.4.3 from 7.4.2
+  - Update Ohponopono's Better Underwater Ruins to 1.1.5 from temp removal
+  - Re-Added Built in pack
+    - Mob Captains are now properly configured.
+    - Vanilla Refesh Stairs are now disabled.
 - Mod Updates:
   - Update Fabric's Fabric API to 0.96.1 from 0.96.0
 - Resource Pack Updates:
@@ -131,10 +136,13 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 <h3>Additions:</h3>
 
 - Datapack Additions:
-  - 
+  - Added Ohponopono's Better Mineshafts 1.2.1
+    - We needed new mineshafts.
 - Mod Additions:
   - Added Minenash's Seamless Loading Screen
     - This makes the loading screen slightly better. Fits really well into Vanilla+ Minecraft.
+  - Added Cubes Without Boarders
+    - Replacement for Boarderless Mining in 1.20.4
 - Resource Pack Additions:
 
 <h3>Temporary Removals</h3>

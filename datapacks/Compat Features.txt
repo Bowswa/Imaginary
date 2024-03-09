@@ -1,15 +1,6 @@
 Added:
 
 Suggested:
--Pre-Configure Mob Captians Properly(ps, use config function)
-1. /scoreboard players set .cool_down ps-mob.config 45
-2. /scoreboard players set .spawn_chance ps-mob.config 100
-3. /scoreboard players set .notify_on_spawn ps-mob.config 3
-4. /scoreboard players set .should_glow ps-mob.config 1
-5. /scoreboard players set .weight_common ps-mob.config 2000
-6. /scoreboard players set .weight_uncommon ps-mob.config 1000
-7. /scoreboard players set .weight_rare ps-mob.config 750
-8. /scoreboard players set .weight_legendary ps-mob.config 250
 -Configure DP order on first start
   1. Trade Rebalance 1.20.4
   2. TimeLib
@@ -20,7 +11,7 @@ Suggested:
 1. /function blazeandcave:config/scoreboard_bac_advancements (find out how to set to sidebar)
 -BACAP messages on startup
 - Vanilla Refresh Settings
-  1. /function vanilla_refresh:other/actions/player/sitting_disable
+
 - Fix "Shriek Forever After" triggering when Injured Effects gives darkness
 
 Rejected:
