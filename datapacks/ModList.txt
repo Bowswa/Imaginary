@@ -4,6 +4,8 @@ MC 1.20.4 Villager Trade EX Pack - Server Jar/data - Update 0.0.7
 Apollo's Rebalanced Loot 1.1.1 1.20.2 - https://modrinth.com/datapack/rebalanced-loot/ - Followed - Update 0.0.7
 Apollo's Terratonic 3.1.1 1.20.4 - https://modrinth.com/datapack/terratonic/ - Followed - Update 0.0.8
 
+bebebea_loste's Explorify 1.3.0 1.20.4 - https://modrinth.com/datapack/explorify - Followed - Update 0.0.8
+
 Cavinator1's BACAP Pack 1.16.7 1.20.4 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - Update 0.0.7
 Cavinator1's BACAP Stardust Compat 1.20.2 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 1/27/2024 - Update 0.0.7
 
@@ -77,9 +79,7 @@ TreyRuffy's BetterF3 9.0.2 1.20.4 - Improvement/Performance - Update 0.0.8
 
 
 POTENTIAL UPDATES:
-bebebea_loste's Explorify - https://modrinth.com/datapack/explorify
 Zoey2936's Ribstnib V1.2.3 1.19.4 - https://modrinth.com/datapack/ribstnib - Add myself.
-https://modrinth.com/datapack/combat-expanded - add to 1.20.2
 https://modrinth.com/resourcepack/gm4-resources - add to 1.20.4 RESOURCE PACK
 https://gm4.co/modules/xp-storage - add to 1.20.2
 https://gm4.co/modules/washing-tanks - add to 1.20.2
@@ -146,11 +146,14 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 
 <h3>Additions:</h3>
 
-- Added Configuration files for EVERY pack for Openloader to use.
-  - This corrects some of the ordering issues that could occur when making a new world.
+- Added Openloader Configuration File for Imaginary Integrated Pack
+  - This may fix a couple bugs, but as right now the system is not good enough to apply to all packs.
 - Datapack Additions:
   - Added Ohponopono's Better Mineshafts 1.2.1
     - We needed new mineshafts.
+  - Added bebebea_loste's Explorify 1.3.0
+    - More Structures
+  - Replaced Outdated Apollo's Trimmable Tools W/ JoeFly's Tool Trims 2.0.2
 - Mod Additions:
   - Added Minenash's Seamless Loading Screen
     - This makes the loading screen slightly better. Fits really well into Vanilla+ Minecraft.
