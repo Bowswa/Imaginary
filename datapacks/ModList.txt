@@ -11,13 +11,13 @@ Cavinator1's BACAP Stardust Compat 1.20.2 - https://www.planetminecraft.com/data
 
 CreeperMagnet_'s TCC 1.3.3 for 1.20.4 - https://modrinth.com/datapack/the-creepers-code/ - Followed - Update 0.0.7
 
-EMD123's Deeper Dark 2.2.1 1.20.2 - https://modrinth.com/datapack/deeper_dark - Followed - NOT READY
+EMD123's Deeper Dark 3.0.1 1.20.4 - https://modrinth.com/datapack/deeper_dark - Followed - Update 0.0.8b
 
 Frektip's Technical Enchant+ Renewed 7.4.2 1.20.4 - https://modrinth.com/datapack/technical-enchant+-renewed - Followed - Update 0.0.7
 
 Frozytime's Mine Treasure 1.3.3 1.20.4 - https://modrinth.com/datapack/mine-treasure - Followed - Update 0.0.7
 
-Gamemode 4's Apple Trees 2.2.5 1.20.4 - https://modrinth.com/datapack/gm4-apple-trees - Followed - Update 0.0.8
+Gamemode 4's Apple Trees 2.2.9 1.20.4 - https://modrinth.com/datapack/gm4-apple-trees - Followed - Update 0.0.8
 Gamemode 4's Bookshelf Inspector 1.0.2 1.20.4 - https://modrinth.com/datapack/gm4-bookshelf-inspector - Followed - Update 0.0.7
 
 JoeFly's Tool Trims 2.0.2 1.20.4 - https://modrinth.com/datapack/tool-trims - Followed - Update 0.0.8
@@ -37,7 +37,7 @@ PuckiSilver's Mob Captians 3.2.1 1.20.2 - https://modrinth.com/datapack/mob-capt
 PuckiSilver's Concoction 1.0.0 1.20.4 - https://modrinth.com/datapack/concoction/ - Followed - Update 0.0.7
 
 RainRealmCreate's Mo-Variants 7.4.3 1.20.4 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.8
-RainRealmCreate's Horde Nights 0.3.1 1.20.4 - https://modrinth.com/datapack/horde-nights/ - Followed - Update 0.0.7
+RainRealmCreate's Horde Nights 1.0.0-P-1 1.20.4 - https://modrinth.com/datapack/horde-nights/ - Followed - Update 0.0.7
 RainRealmCreate's Injured Effects 1.3.0 1.20.4 - https://modrinth.com/datapack/injured-effects/ - Followed - Update 0.0.7
 
 SilicatYT's TimeLib 1.1.3 1.20.4 - https://modrinth.com/datapack/timelib - Followed - Update 0.0.7
@@ -65,7 +65,7 @@ WASDBuildTeam's Resources 7.0.6 1.20.4 - https://wasdbuildteam.website/data-pack
 Sunekaer's Yeetus Experimentus 84.0.1 1.20.4 - Performance - Update 0.0.7
 Darkhax's Openloader 22.1.7 1.20.4 - Core - Update 0.0.8
 Juliand665's Dynamic FPS 3.3.3 1.20.4 - Performance - Update 0.0.7
-Fabric's Fabric API 0.96.4 1.20.4 - Core - Update 0.0.8
+Fabric's Fabric API 0.97.0 1.20.4 - Core - Update 0.0.8
 Jellysquid3's Lithium 0.12.1 1.20.4 - Performance - Update 0.0.7
 Jellysquid3's Sodium 0.5.8 1.20.4 - Performance - Update 0.0.7
 Malte0811's FerriteCore 6.0.3 1.20.4 - Performance - Update 0.0.7
@@ -114,7 +114,7 @@ LimeSpatus' Ultris: Boss Expansion 5.6.9b 1.20.1 - https://modrinth.com/datapack
 Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.20.4 NOT READY
 
 
-<h1>Alpha v0.0.9: Polishing Pistons</h1>
+<h1>Alpha v0.0.8b: Small Updates</h1>
 <h3>Fixes:</h3>
 
 - 
@@ -123,9 +123,12 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 <h3>Updates:</h3>
 
 - Datapack Updates:
-  - 
+  - Re-Added EMD123's Deeper Dark 3.0.1 from 2.2.1
+  - Updated Gamemode 4's Apple Trees to 2.2.9 from 2.2.8
+  - Updated RainRealmCreate's Horde Nights to 1.0.0-P-1 from 0.3.1
 - Mod Updates:
-  - 
+  - Updated Fabric's Fabric API to 0.97.0 from 0.96.4
+  - Updated No Chat Reports to 2.6.0 from 2.5.0
 - Resource Pack Updates:
   - 
 
