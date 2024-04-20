@@ -117,7 +117,7 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 <h1>Alpha v0.0.8b: Small Updates</h1>
 <h3>Fixes:</h3>
 
-- 
+- Fixes with pack updates
 
 
 <h3>Updates:</h3>
