@@ -1,15 +1,8 @@
 1.20.4 Data Packs:
-MC 1.20.4 Villager Trade EX Pack - Server Jar/data - Update 0.0.7
-
 Apollo's Rebalanced Loot 1.1.1 1.20.2 - https://modrinth.com/datapack/rebalanced-loot/ - Followed - Update 0.0.7
 Apollo's Terratonic 3.1.1 1.20.4 - https://modrinth.com/datapack/terratonic/ - Followed - Update 0.0.8
 
 bebebea_loste's Explorify 1.3.0 1.20.4 - https://modrinth.com/datapack/explorify - Followed - Update 0.0.8
-
-Cavinator1's BACAP Pack 1.16.7 1.20.4 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - Update 0.0.7
-Cavinator1's BACAP Stardust Compat 1.20.2 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 1/27/2024 - Update 0.0.7
-
-CreeperMagnet_'s TCC 1.3.3 for 1.20.4 - https://modrinth.com/datapack/the-creepers-code/ - Followed - Update 0.0.7
 
 EMD123's Deeper Dark 3.0.1 1.20.4 - https://modrinth.com/datapack/deeper_dark - Followed - Update 0.0.8b
 
@@ -20,35 +13,18 @@ Frozytime's Mine Treasure 1.3.3 1.20.4 - https://modrinth.com/datapack/mine-trea
 Gamemode 4's Apple Trees 2.2.9 1.20.4 - https://modrinth.com/datapack/gm4-apple-trees - Followed - Update 0.0.8
 Gamemode 4's Bookshelf Inspector 1.0.2 1.20.4 - https://modrinth.com/datapack/gm4-bookshelf-inspector - Followed - Update 0.0.7
 
-JoeFly's Tool Trims 2.0.2 1.20.4 - https://modrinth.com/datapack/tool-trims - Followed - Update 0.0.8
-
 LimeSplatus' Vanilla Refresh 1.4.19g 1.20.4 - https://modrinth.com/datapack/vanilla-refresh/ - Followed - Update 0.0.7
-
-MacchuPicchu's Nutrition 1.2.2 1.20.4 - https://modrinth.com/datapack/nutrition - Followed - Update 0.0.7
 
 Miraculixx's Animated Doors 1.1.0 1.20.4 - https://modrinth.com/datapack/animated-doors - Followed - Update 0.0.7
 
 NovaWostra's Dungeons & Taverns 3.1.1 1.20.4 - https://modrinth.com/datapack/dungeons-and-taverns/ - Followed - Update 0.0.7
 
-Ohponopono's Better Underwater Ruins 1.1.6 1.20.4 - https://modrinth.com/datapack/better-underwater-ruins - Followed - Update 0.0.8
-Ohponopono's Better Mineshafts 1.2.2 1.20.4 - https://modrinth.com/datapack/better-mineshaft - Followed - Update 0.0.8
-
-PuckiSilver's Mob Captians 3.2.1 1.20.2 - https://modrinth.com/datapack/mob-captains - Followed - Update 0.0.7
 PuckiSilver's Concoction 1.0.0 1.20.4 - https://modrinth.com/datapack/concoction/ - Followed - Update 0.0.7
 
 RainRealmCreate's Mo-Variants 7.4.3 1.20.4 - https://modrinth.com/datapack/mo-variants/ - Followed - Update 0.0.8
 RainRealmCreate's Horde Nights 1.0.0-P-1 1.20.4 - https://modrinth.com/datapack/horde-nights/ - Followed - Update 0.0.7
-RainRealmCreate's Injured Effects 1.4.0 1.20.4 - https://modrinth.com/datapack/injured-effects/ - Followed - Update 0.0.9
 
-SilicatYT's TimeLib 1.1.3 1.20.4 - https://modrinth.com/datapack/timelib - Followed - Update 0.0.7
 
-Stardust's Terralith 2.4.11 1.20.4 - https://github.com/Stardust-Labs-MC/Terralith/releases - LCed 1/18/2024 - Update 0.0.7
-Stardust's Incendium 5.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Incendium/releases - LCed 1/18/2024 - Update 0.0.7
-Stardust's Nullscape 1.2.4 1.20.4 - https://github.com/Stardust-Labs-MC/Nullscape/releases - LCed 1/18/2024 - Update 0.0.7
-Stardust's Structory 1.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Structory/releases - LCed 1/18/2024 - Update 0.0.7
-Stardust's Structory-T 1.0.6 1.20.4 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - LCed 1/18/2024 - Update 0.0.7
-
-WASDBuildTeam's Simple Chairs 1.3.0 1.20.4 - https://modrinth.com/datapack/simple-chairs - Followed - Update 0.0.8
 
 1.20.4 Resource Packs:
 Bowswa's BBACAPA 1.0.0 1.20.4 - NOT YET RELEASED - Followed - Update 0.0.8
@@ -65,10 +41,6 @@ WASDBuildTeam's Resources 7.0.6 1.20.4 - https://wasdbuildteam.website/data-pack
 Sunekaer's Yeetus Experimentus 84.0.1 1.20.4 - Performance - Update 0.0.7
 Darkhax's Openloader 22.1.7 1.20.4 - Core - Update 0.0.8
 Juliand665's Dynamic FPS 3.3.3 1.20.4 - Performance - Update 0.0.7
-Fabric's Fabric API 0.97.0 1.20.4 - Core - Update 0.0.8
-Jellysquid3's Lithium 0.12.1 1.20.4 - Performance - Update 0.0.7
-Jellysquid3's Sodium 0.5.8 1.20.4 - Performance - Update 0.0.7
-Malte0811's FerriteCore 6.0.3 1.20.4 - Performance - Update 0.0.7
 Prospector's Mod Menu  1.20.4 - Core - Update 0.0.7
 Minenash's Seamless Loading Screen 2.1.1 1.20.4 - Detail - Update 0.0.8
 PepperCode1's Continuity 3.0.0B4 1.20.4 - Detail - Update 0.0.8
@@ -76,6 +48,51 @@ Comp500's Indium 1.0.30 1.20.4 - Compatability - Update 0.0.8
 Traben's Entity Texture Features - Detail - Update 0.0.8
 DaFuqs' Paginatged Advancements & Custom Frames 2.4.2 1.20.4 - Improvement - Update 0.0.8
 TreyRuffy's BetterF3 9.0.2 1.20.4 - Improvement/Performance - Update 0.0.8
+
+
+
+1.20.6 Packs:
+- MC 1.20.6 Villager Trade EX Pack - Server Jar/data - NOT IMPLIMENTED
+
+- Apollo's Trimmable Tools 1.0.6 for 1.20.6 - https://modrinth.com/datapack/trimmable-tools/ - Followed - NOT IMPLIMENTED - MOD FORM
+
+- Cavinator1's BACAP Pack 1.16.9 1.20.6 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - NOT IMPLIMENTED - LICENSE CHECK!!!
+- Cavinator1's BACAP Terralith Compat 1.16.9 1.20.6 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 5/13/2024 - NOT IMPLIMENTED - LICENSE CHECK!!!
+- Cavinator1's BACAP Nullscape Compat 1.16.6 1.20.4 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 5/13/2024 - NOT IMPLIMENTED - LICENSE CHECK!!! - OUT OF DATE
+- Cavinator1's BACAP HARDCORE Compat 1.16.8 1.20.5 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-hardcore-version/ - LCed 5/13/2024 - NOT IMPLIMENTED - Optional - LICENSE CHECK!!! - OUT OF DATE
+
+- CreeperMagnet_'s TCC 1.3.5 for 1.20.6 - https://modrinth.com/datapack/the-creepers-code/ - Followed - NOT IMPLIMENTED
+
+- MacchuPicchu's Nutrition 1.3.0 1.20.6 - https://modrinth.com/datapack/nutrition - Followed - NOT IMPLIMENTED
+
+- Ohponopono's Better Underwater Ruins 1.1.7 1.20.6 - https://modrinth.com/datapack/better-underwater-ruins - Followed - NOT IMPLIMENTED
+- Ohponopono's Better Mineshafts 1.2.3 1.20.6 - https://modrinth.com/datapack/better-mineshaft - Followed - NOT IMPLIMENTED
+
+- PuckiSilver's Mob Captians 3.3.0 1.20.6 - https://modrinth.com/datapack/mob-captains - Followed - NOT IMPLIMENTED
+
+- RainRealmCreate's Injured Effects 1.4.0 1.20.6 - https://modrinth.com/datapack/injured-effects/ - Followed - NOT IMPLIMENTED
+
+- SilicatYT's TimeLib 1.1.4 1.20.6 - https://modrinth.com/datapack/timelib - Followed - NOT IMPLIMENTED
+
+- Stardust's Terralith 2.5.0 1.20.6 - https://github.com/Stardust-Labs-MC/Terralith/releases - LCed 5/13/2024 - NOT IMPLIMENTED
+- Stardust's Incendium 5.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Incendium/releases - LCed 5/13/2024 - NOT IMPLIMENTED - OUT OF DATE
+- Stardust's Nullscape 1.2.4 1.20.4 - https://github.com/Stardust-Labs-MC/Nullscape/releases - LCed 5/13/2024 - NOT IMPLIMENTED - OUT OF DATE
+- Stardust's Structory 1.3.4 1.20.4 - https://github.com/Stardust-Labs-MC/Structory/releases - LCed 5/13/2024 - NOT IMPLIMENTED - OUT OF DATE
+- Stardust's Structory-T 1.0.6 1.20.4 - https://github.com/Stardust-Labs-MC/Structory-Towers/releases - LCed 5/13/2024 - NOT IMPLIMENTED - OUT OF DATE
+
+- WASDBuildTeam's Simple Chairs 1.4.0 1.20.5 - https://modrinth.com/datapack/simple-chairs - Followed - NOT IMPLIMENTED
+
+
+
+
+1.20.6 Mods: 
+
+- Fabric's Fabric API 0.98.0 1.20.6 - Core - NOT IMPLIMENTED
+
+- Jellysquid3's Lithium 0.12.3 1.20.6 - Performance - NOT IMPLIMENTED
+- Jellysquid3's Sodium 0.5.8 1.20.6 - Performance - NOT IMPLIMENTED
+
+- Malte0811's FerriteCore 6.1.1 1.20.6 - Performance - NOT IMPLIMENTED
 
 
 POTENTIAL UPDATES:
@@ -122,8 +139,11 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 
 <h3>Updates:</h3>
 
+-Updated to 1.20.6
+
 - Datapack Updates:
-  - Updated RainRealmCreate's Injured Effects to 1.4.0 from 1.3.0
+  - Returned to Apollo's Trimmable Tools 1.0.6 instead of Tool Trims
+    - Apollo updated to 1.20.6 first and is the pack I prefer.
 - Mod Updates:
   - 
 - Resource Pack Updates:
