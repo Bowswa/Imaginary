@@ -1,12 +1,6 @@
 Added:
 
 Suggested:
--Configure DP order on first start
-  1. Trade Rebalance 1.20.4
-  2. TimeLib
-  3. BACAP Normal
-  4. BACAP Terralith
-  5. BACAP Nullscape
 -Configure Advancement Pack
 1. /function blazeandcave:config/scoreboard_bac_advancements (find out how to set to sidebar)
 -BACAP messages on startup
