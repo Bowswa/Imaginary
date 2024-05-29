@@ -52,9 +52,7 @@ TreyRuffy's BetterF3 9.0.2 1.20.4 - Improvement/Performance - Update 0.0.8
 
 
 1.20.6 Packs:
-- MC 1.20.6 Villager Trade EX Pack - Server Jar/data - NOT IMPLIMENTED
-
-- Apollo's Trimmable Tools 1.0.6 for 1.20.6 - https://modrinth.com/datapack/trimmable-tools/ - Followed - NOT IMPLIMENTED - MOD FORM
+- MC's Villager Trade EX Pack for 1.20.6- Server Jar/data - Update 0.0.9
 
 - Cavinator1's BACAP Pack 1.16.9 1.20.6 - https://modrinth.com/datapack/blazeandcaves-advancements-pack - Followed - NOT IMPLIMENTED - LICENSE CHECK!!!
 - Cavinator1's BACAP Terralith Compat 1.16.9 1.20.6 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/ - LCed 5/13/2024 - NOT IMPLIMENTED - LICENSE CHECK!!!
@@ -62,6 +60,8 @@ TreyRuffy's BetterF3 9.0.2 1.20.4 - Improvement/Performance - Update 0.0.8
 - Cavinator1's BACAP HARDCORE Compat 1.16.8 1.20.5 - https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-hardcore-version/ - LCed 5/13/2024 - NOT IMPLIMENTED - Optional - LICENSE CHECK!!! - OUT OF DATE
 
 - CreeperMagnet_'s TCC 1.3.5 for 1.20.6 - https://modrinth.com/datapack/the-creepers-code/ - Followed - NOT IMPLIMENTED
+
+- JoeFly's Tool Trims b2.1.1 for 1.20.6 - https://modrinth.com/datapack/tool-trims/ - Followed - Update 0.0.9 - MOD VERSION
 
 - MacchuPicchu's Nutrition 1.3.0 1.20.6 - https://modrinth.com/datapack/nutrition - Followed - NOT IMPLIMENTED
 
@@ -142,10 +142,11 @@ Fisch37's Void Warp 1.0.0 1.19.4 - https://modrinth.com/datapack/void-warp - 1.2
 -Updated to 1.20.6
 
 - Datapack Updates:
-  - Returned to Apollo's Trimmable Tools 1.0.6 instead of Tool Trims
-    - Apollo updated to 1.20.6 first and is the pack I prefer.
-- Mod Updates:
   - 
+- Mod Updates:
+  - Updated JoeFly's Tool Trims to b2.1.1
+    - I will be retaining this pack as it adds 4 custom trims instead of the single trim apollo's pack adds.
+    - I am also now using the mod version, as it is still a datapack and resource pack. This is for ease of development.
 - Resource Pack Updates:
   - 
 
