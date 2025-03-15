@@ -1,0 +1,7 @@
+- Tool Trim current version does not comply with SEMVER standard
+  - REPORTED
+
+- Better Stats contains bad info in mod jar(fabric)
+- tcdcommons contains bad info in mod jar(fabric)
+- Two music tracks playing when actively playing world(one stops on pause)
+  - One involved mod is Reactive Music
