@@ -1,7 +1,18 @@
-- Tool Trim current version does not comply with SEMVER standard
-  - REPORTED
-
 - Better Stats contains bad info in mod jar(fabric)
+  - REPORTED (not planned fix)
 - tcdcommons contains bad info in mod jar(fabric)
-- Two music tracks playing when actively playing world(one stops on pause)
-  - One involved mod is Reactive Music
+  - REPORTED (not planned fix)
+- No data Fixer for Creeper Overhaul
+  - REPORTED (not planned fix)
+- No data Fixer for Deeper And Darker
+  - REPORTED (not planned fix)
+- Tool Trim current version does not comply with SEMVER standard
+  - REPORTED (planned fix)
+
+
+- Two music tracks playing when actively playing world(one stops on pause) - TEMP FIXED
+  - Investigate Reactive Music - INVOLVED
+  - Investigate The Immersive Sound Mod - INVOLVED & DISABLED
+- 1.21.4 sounds and entity declared somewhere
+  - Investigating all mod files
+- Investigate issue with loading taking 80 seconds
