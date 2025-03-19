@@ -8,6 +8,8 @@
   - REPORTED (not planned fix)
 - Tool Trim current version does not comply with SEMVER standard
   - REPORTED (planned fix)
+- More Nuggests Item Models Bugged
+  - REPORTED
 
 
 - Two music tracks playing when actively playing world(one stops on pause) - TEMP FIXED

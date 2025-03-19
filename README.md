@@ -2,11 +2,10 @@
 
 Imaginary is a hand picked collection of datapacks, with minimal mods, to enhance your gameplay experience.
 
-**IMAGINARY IS IN ALPHA!!! BUGS MAY ARISE, WORLDS MAY STOP WORKING AFTER AN UPDATE, AND NOT ALL FEATURES ARE INTEGRATED IN THEIR FINAL FORM OR AT ALL!!!**
+## Install Instructions
 
-**5/9/2024 - Update 0.0.8c is OUT!**
-**This update brings all packs and mods up to date while you wait for 0.0.9!**
-**Update 0.0.9 is planned to be in 1.20.5, and be one that focuses on polishing, bugs fixes, and preparing to enter beta v0.1.X development.**
+1. Please use 5+ GB of RAM(may be more, this is untested on my part. I will do even more testing to find the lowest possible in the next update.)
+2. You will need to use a custom java argument, failure to do so may result in performance loss: ```-XX:+UseZGC```
 
 ### Imagine the World
 
@@ -15,6 +14,17 @@ When you imagine a perfect minecraft world, what does it look like? Imaginary ai
 With 3+ new boss fights, countless new biomes, many new custom items, new mobs, harder mechanics, and even a couple new dimensions, exploring your world just became an Imaginary experience. Unlock everything with many new advancements, including some lore to follow! Or not, if you don't like that kinda thing.
 
 Make this world your version of an Imaginary world!<br><br><br>
+
+### Development Update - 3/18/2025
+
+Development has been picked up again, and v1.2.0 has been released. I have learned a lot about how to properly develop a modpack.
+
+Up to this point, the main focus of this modpack has been adding tons of new blocks, biomes, structures, and even a new dimension. Exploration and building have been the focus.
+
+v1.2.0 fixes bugs, improves mechanics, but still doesn't really FOCUS on content. This pack is supposed to be made for VR, and yet tons of issues still exist with the VR experience.
+
+I am going to provide a few minor updates in the v1.2.X update line, fixing bugs, making minor changes, etc. However, v1.3.0 will be a content based update. I want to refine the VR experience without taking away anything currently included in the pack, and i will strive to do as such.
+For now, enjoy, your imaginary world!
 
 
 ### Special thanks to Starmute for permission to use Stardust Labs' packs in this project!
