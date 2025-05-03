@@ -8,6 +8,7 @@
 ## Additions
 
 - Added Cottage Craft Festive Eggs
+- Added Resource Trimmer, a network performance improver mod.
 
 ## Changes
 
@@ -24,6 +25,7 @@
 - Updated Lithium from v0.13.1 for 1.21 to v0.15.0 for 1.21.1
 - Updated More Nuggets from v1.21-0.1 to v1.21.1-0.2
 - Updated Visual Workbench from v21.0.5 for 1.21 to v21.1.0 for 1.21.1
+- AND MORE that I didn't track...
 
 ## Removals
 
@@ -31,6 +33,6 @@
 
 ## Fixes
 
-- 
+- Oh a couple I do believe, i know adding the cottage craft festive eggs removed a lot of log spam...
 
 ## Known Issues
